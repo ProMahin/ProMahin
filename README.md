@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm MD Mahin Hossain</h1>
 <h3 align="center">"Hey there! I'm Mahin, a dedicated and passionate student with a strong interest in programming and web development.</h3>
 
-- 👨‍💻 My portfolio website [...].
-- 🌱 I’m currently working with **Next.js & React Native**
+- 👨‍💻 My portfolio website [...]
+- 🌱 I’m currently working with **HTML & CSS**
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2025-2026 Goals: **Web3, Solidity & Cloud**
+- 🥅 2025-2026 Goals: **JS, React & TailwindCSS**
 - ⚡ Fun fact: I love coding, exploring new things, reading docs, and watching movies
 - 📫 Reach me at **mahinhossain962@gmail.com**
 
