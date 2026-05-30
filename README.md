@@ -24,10 +24,8 @@
 
 
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=ProMahin&count_private=true&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000)](https://github.com/ProMahin)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ProMahin&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProMahin&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 <br/>
 
