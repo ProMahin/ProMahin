@@ -4,7 +4,7 @@
 - 👨‍💻 My portfolio website [...]
 - 🌱 I’m currently working with **HTML & CSS**
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2025-2026 Goals: **JS, React & TailwindCSS**
+- 🥅 2026-2027 Goals: **JS, React & TailwindCSS**
 - ⚡ Fun fact: I love coding, exploring new things, reading docs, and watching movies
 - 📫 Reach me at **mahinhossain962@gmail.com**
 
