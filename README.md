@@ -13,7 +13,7 @@
 [<img align="left" alt="devarif.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](#)
 [<img align="left" alt="devarif.me | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100092207993115)
 [<img align="left" alt="devarif | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](#)
-[<img align="left" alt="arifpro | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Mahin-ux)
+[<img align="left" alt="arifpro | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/ProMahin)
 [<img align="left" alt="arifpro | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />](#)
 [<img align="left" alt="proarif | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](#)
 [<img align="left" alt="proarif | Dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />](#)
@@ -135,15 +135,15 @@
 
 
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Mahin-ux&count_private=true&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000)](https://github.com/Mahin-ux)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mahin-ux&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=ProMahin&count_private=true&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000)](https://github.com/ProMahin)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ProMahin&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahin-ux&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProMahin&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 <br/>
 
 <h2 align="center">Visitor Count</h2>
 <p align="center">
-  <img align="center" alt="devarif.me" width="40%" src="https://profile-counter.glitch.me/Mahin-ux/count.svg" />
+  <img align="center" alt="devarif.me" width="40%" src="https://profile-counter.glitch.me/ProMahin/count.svg" />
 </p>
 
