@@ -3,9 +3,9 @@
 
 - 👨‍💻 My portfolio website [...].
 - 📝 I write articles on [...].
-- 🌱 I’m currently working with ReactJs, NextJs, VueJs, NodeJs, AWS, React Native.
+- 🌱 I’m currently working with Next.js & React Native.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2023-2024 Goals: Web3, Solidity, Golang, Dart+Flutter, Kotlin, and Swift.
+- 🥅 205-2026 Goals: Web3, Solidity & Cloud.
 - ⚡ Fun fact: I love coding, exploring new things, reading docs, and watching movies.
 - 📫 Reach me at **mahinhossain962@gmail.com**
 
