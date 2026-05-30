@@ -24,10 +24,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ProMahin&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
+---
 
 
-
-<br/>
 
 <h2 align="center">Visitor Count</h2>
 <p align="center">
