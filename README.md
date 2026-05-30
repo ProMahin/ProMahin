@@ -24,9 +24,9 @@
 ---
 
 
-
-<h2 align="center">Visitor Count</h2>
 <p align="center">
-  <img align="center" alt="" width="40%" src="https://profile-counter.glitch.me/ProMahin/count.svg" />
+  <img 
+    src="https://hits.sh/github.com/ProMahin.svg?style=for-the-badge&label=Visitors&color=000000&labelColor=000000" 
+  />
 </p>
 
