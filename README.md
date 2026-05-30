@@ -21,12 +21,8 @@
 ---
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=ProMahin&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=ProMahin&theme=github_dark&graph=false&languages=false&streak=true&stats=false&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </p>
-
----
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ProMahin&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
