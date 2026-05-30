@@ -21,16 +21,16 @@
 
 ---
 
-
-
-
+[!](https://github-readme-stats.vercel.app/api?username=ProMahin&count_private=true&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000)](https://github.com/ProMahin)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ProMahin&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
+
 
 
 <br/>
 
 <h2 align="center">Visitor Count</h2>
 <p align="center">
-  <img align="center" alt="devarif.me" width="40%" src="https://profile-counter.glitch.me/ProMahin/count.svg" />
+  <img align="center" alt="" width="40%" src="https://profile-counter.glitch.me/ProMahin/count.svg" />
 </p>
 
