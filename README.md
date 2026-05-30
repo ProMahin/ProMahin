@@ -2,11 +2,10 @@
 <h3 align="center">"Hey there! I'm Mahin, a dedicated and passionate student with a strong interest in programming and web development.</h3>
 
 - 👨‍💻 My portfolio website [...].
-- 📝 I write articles on [...].
-- 🌱 I’m currently working with Next.js & React Native.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 205-2026 Goals: Web3, Solidity & Cloud.
-- ⚡ Fun fact: I love coding, exploring new things, reading docs, and watching movies.
+- 🌱 I’m currently working with **Next.js & React Native**
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2025-2026 Goals: **Web3, Solidity & Cloud**
+- ⚡ Fun fact: I love coding, exploring new things, reading docs, and watching movies
 - 📫 Reach me at **mahinhossain962@gmail.com**
 
 ### Connect with me:
