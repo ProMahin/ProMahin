@@ -8,12 +8,7 @@
 - ⚡ Fun fact: I love coding, exploring new things, reading docs, and watching movies
 - 📫 Reach me at **mahinhossain962@gmail.com**
 
-
-<br />
-
-
-
-
+---
 
  <h3 align="left">Languages and Tools:</h3>
  <p>
