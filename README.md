@@ -17,10 +17,7 @@
   <img src="https://skillicons.dev/icons?i=python,figma,reactnative" />
 </p
 
-
-
 ---
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ProMahin&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
