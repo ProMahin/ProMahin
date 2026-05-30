@@ -8,8 +8,6 @@
 - ⚡ Fun fact: I love coding, exploring new things, reading docs, and watching movies
 - 📫 Reach me at **mahinhossain962@gmail.com**
 
-### Connect with me:
-[<img align="left" alt="arifpro | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/ProMahin)
 
 <br />
 
