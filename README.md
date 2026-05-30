@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insightusername=ProMahin&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=ProMahin&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
 
 ---
